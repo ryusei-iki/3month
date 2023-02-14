@@ -1,5 +1,0 @@
-import scipy
-
-print('hai')
-
-
