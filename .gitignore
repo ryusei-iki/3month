@@ -146,5 +146,6 @@ poetry.lock
 # 開発を行う上でユーザごとに変更が入るため，コンフリクトを起こしやすいので，予めリモートにはpushしないようにしています
 # .vscode/
 # .gitignore
-# pyproject.toml
+pyproject.toml
+a.txt
 
